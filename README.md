@@ -1,4 +1,4 @@
-## GO语言 Prometheus
+## Prometheus Exporter
 
 ### 指标类型
 
